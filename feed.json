@@ -11,6 +11,60 @@
     },
     "items": [
         {
+            "id": "https://nsmcv.github.io/gh-pages/altar-boys.html",
+            "url": "https://nsmcv.github.io/gh-pages/altar-boys.html",
+            "title": "Altar Boys",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&hellip;",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "image": "https://nsmcv.github.io/gh-pages/media/posts/4/altarboys.jpg",
+            "author": {
+                "name": "nsmcvtcr"
+            },
+            "tags": [
+                   "Liturgy",
+                   "Boys",
+                   "Altar"
+            ],
+            "date_published": "2020-06-18T19:27:04+05:30",
+            "date_modified": "2020-06-18T19:27:04+05:30"
+        },
+        {
+            "id": "https://nsmcv.github.io/gh-pages/parish-festivals.html",
+            "url": "https://nsmcv.github.io/gh-pages/parish-festivals.html",
+            "title": "Parish Festivals",
+            "summary": "ChristmasSaturday, 25 December 2021 This is your Prayer Service description. Use this&hellip;",
+            "content_html": "<div id=\"comp-kbdm5jv46\" class=\"txtNew\"  >\n<div id=\"comp-kbdm5jv410\" class=\"txtNew\"  >\n<h2 class=\"font_0\"><span class=\"color_11\">Christmas</span></h2>\n</div>\n<div id=\"comp-kbdm7kce\" class=\"txtNew\"   >\n<p class=\"font_8\"><span class=\"color_11\">Saturday, 25 December 2021</span></p>\n</div>\n<div id=\"comp-kbdm5jv411\" class=\"txtNew\"  >\n<p class=\"font_9\"><span class=\"color_11\">This is your Prayer Service description. Use this space to provide more details such as where it’s held, when it begins and ends, and who it’s geared towards. Give your visitors all the information they need to come and join your congregation.</span></p>\n</div>\n<h2 class=\"font_0\"><span class=\"color_11\">Easter</span></h2>\n</div>\n<div id=\"comp-kbdm7kcd\" class=\"txtNew\"  >\n<p class=\"font_8\"><span class=\"color_11\">Sunday, 4 April 2021</span></p>\n</div>\n<div id=\"comp-kbdm5jv47\" class=\"txtNew\"  >\n<p class=\"font_9\"><span class=\"color_11\">This is your Prayer Service description. Use this space to provide more details such as where it’s held, when it begins and ends, and who it’s geared towards. Give your visitors all the information they need to come and join your congregation.</span></p>\n</div>",
+            "image": "https://nsmcv.github.io/gh-pages/media/posts/3/57181955_336676090283205_815044304400547840_o.jpg",
+            "author": {
+                "name": "nsmcvtcr"
+            },
+            "tags": [
+                   "St Sebastian",
+                   "Procession",
+                   "Festival",
+                   "Feast"
+            ],
+            "date_published": "2020-06-18T19:23:36+05:30",
+            "date_modified": "2020-06-18T19:24:15+05:30"
+        },
+        {
+            "id": "https://nsmcv.github.io/gh-pages/about-us.html",
+            "url": "https://nsmcv.github.io/gh-pages/about-us.html",
+            "title": "About Us",
+            "summary": "Nithya Sahaya Matha Church Viyyur is open to worshippers of all ages&hellip;",
+            "content_html": "<p>Nithya Sahaya Matha Church Viyyur is open to worshippers of all ages and backgrounds. We lead our congregation in worship, deepening the connection to God, understanding the teachings of Christ, and ultimately to a vibrant faith.<br><br>We have a long, proud history of serving the people of Thrissur. Through the dedication of our leadership, staff members and volunteers, we are committed to the teachings of Jesus Christ, and are here to spread His message. Contact us today to find out more about becoming part of the Nithya Sahaya Matha Church Viyyur community.Nithya Sahaya Matha Church Viyyur is open to worshippers of all ages and backgrounds. We lead our congregation in worship, deepening the connection to God, understanding the teachings of Christ, and ultimately to a vibrant faith.<br><br>We have a long, proud history of serving the people of Thrissur. Through the dedication of our leadership, staff members and volunteers, we are committed to the teachings of Jesus Christ, and are here to spread His message. Contact us today to find out more about becoming part of the Nithya Sahaya Matha Church Viyyur community.</p>",
+            "image": "https://nsmcv.github.io/gh-pages/media/posts/2/maxresdefault.jpg",
+            "author": {
+                "name": "nsmcvtcr"
+            },
+            "tags": [
+                   "Facade",
+                   "Church "
+            ],
+            "date_published": "2020-06-18T19:17:31+05:30",
+            "date_modified": "2020-06-18T19:19:13+05:30"
+        },
+        {
             "id": "https://nsmcv.github.io/gh-pages/liturgy-timings.html",
             "url": "https://nsmcv.github.io/gh-pages/liturgy-timings.html",
             "title": "Liturgy Timings",
