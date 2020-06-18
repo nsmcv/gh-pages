@@ -41,11 +41,12 @@
             "tags": [
                    "St Sebastian",
                    "Procession",
+                   "FrontPage",
                    "Festival",
                    "Feast"
             ],
             "date_published": "2020-06-18T19:23:36+05:30",
-            "date_modified": "2020-06-18T20:39:03+05:30"
+            "date_modified": "2020-06-18T20:43:25+05:30"
         },
         {
             "id": "https://nsmcv.github.io/gh-pages/about-us.html",
@@ -58,11 +59,12 @@
                 "name": "nsmcvtcr"
             },
             "tags": [
+                   "FrontPage",
                    "Facade",
                    "Church "
             ],
             "date_published": "2020-06-18T19:17:31+05:30",
-            "date_modified": "2020-06-18T20:36:12+05:30"
+            "date_modified": "2020-06-18T20:43:41+05:30"
         },
         {
             "id": "https://nsmcv.github.io/gh-pages/liturgy-timings.html",
@@ -75,10 +77,11 @@
                 "name": "nsmcvtcr"
             },
             "tags": [
-                   "Mass Timings"
+                   "Mass Timings",
+                   "FrontPage"
             ],
             "date_published": "2020-06-18T13:44:26+05:30",
-            "date_modified": "2020-06-18T20:37:05+05:30"
+            "date_modified": "2020-06-18T20:43:54+05:30"
         }
     ]
 }

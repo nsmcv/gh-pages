@@ -3,7 +3,7 @@
     <title>Nithya Sahaya Matha Church Viyyur</title>
     <link href="https://nsmcv.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://nsmcv.github.io/gh-pages" />
-    <updated>2020-06-18T20:41:30+05:30</updated>
+    <updated>2020-06-18T20:44:03+05:30</updated>
     <author>
         <name>nsmcvtcr</name>
     </author>
@@ -43,10 +43,11 @@
         <id>https://nsmcv.github.io/gh-pages/parish-festivals.html</id>
             <category term="St Sebastian"/>
             <category term="Procession"/>
+            <category term="FrontPage"/>
             <category term="Festival"/>
             <category term="Feast"/>
 
-        <updated>2020-06-18T20:39:03+05:30</updated>
+        <updated>2020-06-18T20:43:25+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nsmcv.github.io/gh-pages/media/posts/3/57181955_336676090283205_815044304400547840_o.jpg" alt="Procession of Feast of St Sebastian" />
@@ -84,10 +85,11 @@
         </author>
         <link href="https://nsmcv.github.io/gh-pages/about-us.html"/>
         <id>https://nsmcv.github.io/gh-pages/about-us.html</id>
+            <category term="FrontPage"/>
             <category term="Facade"/>
             <category term="Church "/>
 
-        <updated>2020-06-18T20:36:12+05:30</updated>
+        <updated>2020-06-18T20:43:41+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nsmcv.github.io/gh-pages/media/posts/2/maxresdefault.jpg" alt="Facade, Nithya Sahaya Matha Church, Viyyur" />
@@ -109,8 +111,9 @@
         <link href="https://nsmcv.github.io/gh-pages/liturgy-timings.html"/>
         <id>https://nsmcv.github.io/gh-pages/liturgy-timings.html</id>
             <category term="Mass Timings"/>
+            <category term="FrontPage"/>
 
-        <updated>2020-06-18T20:37:05+05:30</updated>
+        <updated>2020-06-18T20:43:54+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nsmcv.github.io/gh-pages/media/posts/1/57161039_338014983482649_4287979929670254592_o-2.jpg" alt="Altar of the Church" />
