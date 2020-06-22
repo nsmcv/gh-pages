@@ -5,7 +5,7 @@
     "home_page_url": "https://nsmcv.github.io/gh-pages",
     "feed_url": "https://nsmcv.github.io/gh-pages/feed.json",
     "user_comment": "",
-    "icon": "https://nsmcv.github.io/gh-pages/media/website/20190726_ven_olph-bridge_3-2.jpg",
+    "icon": "https://nsmcv.github.io/gh-pages/media/website/20190726_ven_olph-bridge_3.jpg",
     "author": {
         "name": "nsmcvtcr"
     },
@@ -61,7 +61,7 @@
         {
             "id": "https://nsmcv.github.io/gh-pages/parish-festivals.html",
             "url": "https://nsmcv.github.io/gh-pages/parish-festivals.html",
-            "title": "%sitename - Parish Festivals",
+            "title": "Parish Festivals",
             "summary": " ChristmasSaturday, 25 December 2021 This is your Prayer Service description. Use this&hellip;",
             "content_html": "<div id=\"comp-kbdm5jv46\" class=\"txtNew\"  >\n<div id=\"comp-kbdm5jv410\" class=\"txtNew\"  >\n<h2> </h2>\n<h2 class=\"font_0\"><span class=\"color_11\">Christmas</span></h2>\n</div>\n<div id=\"comp-kbdm7kce\" class=\"txtNew\"   >\n<p class=\"font_8\"><span class=\"color_11\">Saturday, 25 December 2021</span></p>\n</div>\n<div id=\"comp-kbdm5jv411\" class=\"txtNew\"  >\n<p class=\"font_9\"><span class=\"color_11\">This is your Prayer Service description. Use this space to provide more details such as where it’s held, when it begins and ends, and who it’s geared towards. Give your visitors all the information they need to come and join your congregation.</span></p>\n</div>\n<h2 class=\"font_0\"><span class=\"color_11\">Easter</span></h2>\n</div>\n<div id=\"comp-kbdm7kcd\" class=\"txtNew\"  >\n<p class=\"font_8\"><span class=\"color_11\">Sunday, 4 April 2021</span></p>\n</div>\n<div id=\"comp-kbdm5jv47\" class=\"txtNew\"  >\n<p class=\"font_9\"><span class=\"color_11\">This is your Prayer Service description. Use this space to provide more details such as where it’s held, when it begins and ends, and who it’s geared towards. Give your visitors all the information they need to come and join your congregation.</span></p>\n</div>",
             "image": "https://nsmcv.github.io/gh-pages/media/posts/3/test2-2.jpg",
@@ -76,7 +76,7 @@
                    "Feast"
             ],
             "date_published": "2020-06-18T19:23:36+05:30",
-            "date_modified": "2020-06-22T13:21:03+05:30"
+            "date_modified": "2020-06-22T13:50:41+05:30"
         },
         {
             "id": "https://nsmcv.github.io/gh-pages/about-us.html",
