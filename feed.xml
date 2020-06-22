@@ -3,7 +3,7 @@
     <title>Nithya Sahaya Matha Church Viyyur</title>
     <link href="https://nsmcv.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://nsmcv.github.io/gh-pages" />
-    <updated>2020-06-22T13:37:23+05:30</updated>
+    <updated>2020-06-22T13:40:42+05:30</updated>
     <author>
         <name>nsmcvtcr</name>
     </author>
@@ -45,17 +45,16 @@
             <category term="vicar"/>
             <category term="Priest"/>
 
-        <updated>2020-06-19T20:48:16+05:30</updated>
+        <updated>2020-06-22T13:40:35+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nsmcv.github.io/gh-pages/media/posts/5/66.jpg" alt="Fr James Inchodikaran, Vicar" />
                     VicarFr James Inchodikaran Mobile: Email: X
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nsmcv.github.io/gh-pages/media/posts/5/66.jpg" alt="Fr James Inchodikaran, Vicar" />
-                <h2>Vicar</h2>
+                <h2><img class="post__image" src="https://nsmcv.github.io/gh-pages/media/posts/5/66.jpg" alt="" width="244" height="244"></h2>
+<h2>Vicar</h2>
 <p>Fr James Inchodikaran<br>Mobile:<br>Email:</p>
 <h2>Trustees</h2>
 <p>X</p>
