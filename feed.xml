@@ -3,12 +3,51 @@
     <title>Nithya Sahaya Matha Church Viyyur</title>
     <link href="https://nsmcv.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://nsmcv.github.io/gh-pages" />
-    <updated>2020-06-18T20:46:17+05:30</updated>
+    <updated>2020-06-22T10:05:56+05:30</updated>
     <author>
         <name>nsmcvtcr</name>
     </author>
     <id>https://nsmcv.github.io/gh-pages</id>
 
+    <entry>
+        <title>Nithya Sahaya Matha Church Viyyur</title>
+        <author>
+            <name>nsmcvtcr</name>
+        </author>
+        <link href="https://nsmcv.github.io/gh-pages/nithya-sahaya-matha-church-viyyur.html"/>
+        <id>https://nsmcv.github.io/gh-pages/nithya-sahaya-matha-church-viyyur.html</id>
+
+        <updated>2020-06-22T10:05:46+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Leadership</title>
+        <author>
+            <name>nsmcvtcr</name>
+        </author>
+        <link href="https://nsmcv.github.io/gh-pages/leadership.html"/>
+        <id>https://nsmcv.github.io/gh-pages/leadership.html</id>
+            <category term="vicar"/>
+            <category term="Priest"/>
+
+        <updated>2020-06-19T20:48:16+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nsmcv.github.io/gh-pages/media/posts/5/66.jpg" alt="Fr James Inchodikaran, Vicar" />
+                    VicarFr James Inchodikaran Mobile: Email: X
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nsmcv.github.io/gh-pages/media/posts/5/66.jpg" alt="Fr James Inchodikaran, Vicar" />
+                <h2>Vicar</h2>
+<p>Fr James Inchodikaran<br>Mobile:<br>Email:</p>
+<h2>Trustees</h2>
+<p>X</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Altar Boys</title>
         <author>
@@ -20,7 +59,7 @@
             <category term="Boys"/>
             <category term="Altar"/>
 
-        <updated>2020-06-18T20:31:14+05:30</updated>
+        <updated>2020-06-19T20:48:50+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nsmcv.github.io/gh-pages/media/posts/4/altarboys.jpg" alt="Altar Boys" />
@@ -47,7 +86,7 @@
             <category term="Festival"/>
             <category term="Feast"/>
 
-        <updated>2020-06-18T20:43:25+05:30</updated>
+        <updated>2020-06-19T20:49:12+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nsmcv.github.io/gh-pages/media/posts/3/57181955_336676090283205_815044304400547840_o.jpg" alt="Procession of Feast of St Sebastian" />
@@ -89,7 +128,7 @@
             <category term="Facade"/>
             <category term="Church "/>
 
-        <updated>2020-06-18T20:43:41+05:30</updated>
+        <updated>2020-06-19T20:49:35+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nsmcv.github.io/gh-pages/media/posts/2/maxresdefault.jpg" alt="Facade, Nithya Sahaya Matha Church, Viyyur" />
@@ -113,7 +152,7 @@
             <category term="Mass Timings"/>
             <category term="FrontPage"/>
 
-        <updated>2020-06-18T20:43:54+05:30</updated>
+        <updated>2020-06-19T20:50:02+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nsmcv.github.io/gh-pages/media/posts/1/57161039_338014983482649_4287979929670254592_o-2.jpg" alt="Altar of the Church" />

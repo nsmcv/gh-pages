@@ -11,6 +11,35 @@
     },
     "items": [
         {
+            "id": "https://nsmcv.github.io/gh-pages/nithya-sahaya-matha-church-viyyur.html",
+            "url": "https://nsmcv.github.io/gh-pages/nithya-sahaya-matha-church-viyyur.html",
+            "title": "Nithya Sahaya Matha Church Viyyur",
+            "author": {
+                "name": "nsmcvtcr"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-20T12:43:31+05:30",
+            "date_modified": "2020-06-22T10:05:46+05:30"
+        },
+        {
+            "id": "https://nsmcv.github.io/gh-pages/leadership.html",
+            "url": "https://nsmcv.github.io/gh-pages/leadership.html",
+            "title": "Leadership",
+            "summary": "VicarFr James Inchodikaran Mobile: Email: X",
+            "content_html": "<h2>Vicar</h2>\n<p>Fr James Inchodikaran<br>Mobile:<br>Email:</p>\n<h2>Trustees</h2>\n<p>X</p>",
+            "image": "https://nsmcv.github.io/gh-pages/media/posts/5/66.jpg",
+            "author": {
+                "name": "nsmcvtcr"
+            },
+            "tags": [
+                   "vicar",
+                   "Priest"
+            ],
+            "date_published": "2020-06-19T19:09:25+05:30",
+            "date_modified": "2020-06-19T20:48:16+05:30"
+        },
+        {
             "id": "https://nsmcv.github.io/gh-pages/altar-boys.html",
             "url": "https://nsmcv.github.io/gh-pages/altar-boys.html",
             "title": "Altar Boys",
@@ -26,7 +55,7 @@
                    "Altar"
             ],
             "date_published": "2020-06-18T19:27:04+05:30",
-            "date_modified": "2020-06-18T20:31:14+05:30"
+            "date_modified": "2020-06-19T20:48:50+05:30"
         },
         {
             "id": "https://nsmcv.github.io/gh-pages/parish-festivals.html",
@@ -46,7 +75,7 @@
                    "Feast"
             ],
             "date_published": "2020-06-18T19:23:36+05:30",
-            "date_modified": "2020-06-18T20:43:25+05:30"
+            "date_modified": "2020-06-19T20:49:12+05:30"
         },
         {
             "id": "https://nsmcv.github.io/gh-pages/about-us.html",
@@ -64,7 +93,7 @@
                    "Church "
             ],
             "date_published": "2020-06-18T19:17:31+05:30",
-            "date_modified": "2020-06-18T20:43:41+05:30"
+            "date_modified": "2020-06-19T20:49:35+05:30"
         },
         {
             "id": "https://nsmcv.github.io/gh-pages/liturgy-timings.html",
@@ -81,7 +110,7 @@
                    "FrontPage"
             ],
             "date_published": "2020-06-18T13:44:26+05:30",
-            "date_modified": "2020-06-18T20:43:54+05:30"
+            "date_modified": "2020-06-19T20:50:02+05:30"
         }
     ]
 }
